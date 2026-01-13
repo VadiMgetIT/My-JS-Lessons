@@ -46,15 +46,15 @@
 //  -- 5 --
 // Вирахуйте середній вік
 
-const girls = [
-  { age: 23, name: "Оля" },
-  { age: 29, name: "Аня" },
-  { age: 10, name: "Юля" },
-  { age: 20, name: "Катя" },
-];
+// const girls = [
+//   { age: 23, name: "Оля" },
+//   { age: 29, name: "Аня" },
+//   { age: 10, name: "Юля" },
+//   { age: 20, name: "Катя" },
+// ];
 
-let totalAge = 0;
-for (let a = 0; a < girls.length; a++) {
-  totalAge += girls[a].age;
-}
-console.log(totalAge / girls.length);
+// let totalAge = 0;
+// for (let a = 0; a < girls.length; a++) {
+//   totalAge += girls[a].age;
+// }
+// console.log(totalAge / girls.length);
