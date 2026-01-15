@@ -149,12 +149,12 @@
 ///////////////////////////////////
 ///////////////////////////////////
 
-// const message = function (name, stars) {
-//   console.log(`${name}, Welcome to ${this.hotel}, stars ${stars}`);
-// };
+const message = function (name, stars) {
+  console.log(`${name}, Welcome to ${this.hotel}, stars ${stars}`);
+};
 
-// const Bukovel = { hotel: "Bukovel" };
-// const Turist = { hotel: "Turist" };
+const Bukovel = { hotel: "Bukovel" };
+const Turist = { hotel: "Turist" };
 
 // message.call(Bukovel, "Ivan", "5");
 // message.call(Turist, "Ivan", "3");
@@ -196,7 +196,7 @@
 // document
 //   .querySelector("#kid")
 //   .addEventListener("click", cart.showItems.bind(child));
-// ////
+// // ////
 
 // const infoCar = {
 //   name: "BMW",
