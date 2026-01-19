@@ -25,7 +25,7 @@
 // console.log(text.textContent);
 
 // let text = document.querySelector(".text-message");
-// // console.log(text.textContent);
+// console.log(text.textContent);
 
 // text.textContent = "Hello, Olga!";
 
