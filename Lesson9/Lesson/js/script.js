@@ -51,9 +51,9 @@
 //   form.reset();
 // }
 
-const parent = document.querySelector("#parent");
-const child = document.querySelector("#child");
-const item = document.querySelector("#item");
+// const parent = document.querySelector("#parent");
+// const child = document.querySelector("#child");
+// const item = document.querySelector("#item");
 
 // parent.addEventListener("click", () => console.log("Click Parent!"));
 // child.addEventListener("click", () => console.log("Click child!"));
