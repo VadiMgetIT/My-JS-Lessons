@@ -1,3 +1,4 @@
+// ---для 1 ой частини---
 // let form = document.querySelector(".form");
 // let nameInput = document.querySelector(".inputName");
 // let lastNameInput = document.querySelector(".inputLastName");
@@ -24,6 +25,8 @@
 //   nameInput.value = ls.name;
 //   lastNameInput.value = ls.lastName;
 // }
+
+// для 2 ой частини
 
 // let form = document.querySelector("#form");
 // let formData = {};
